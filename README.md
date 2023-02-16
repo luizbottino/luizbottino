@@ -13,7 +13,10 @@
 <div><br>
    <a href = "mailto:luizbottino@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">    </a>
   <a href="https://www.linkedin.com/in/luizbottino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>  
+</div>
+ 
+  
+ ![Snake animation](https://github.com/luizbottino/luizbottino/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **luizbottino/luizbottino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
