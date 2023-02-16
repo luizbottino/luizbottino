@@ -1,8 +1,12 @@
-### Hi there 👋
+## Luiz por aqui! 👋
 
+- 🌱 Estudando desenvolvimento Java
+
+<div><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizbottino&count_private=true&theme=transparent)](https://github.com/luizbottino/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizbottino&count_private=true&theme=transparent&layout=compact)](https://github.com/luizbottino/github-readme-stats)  
+ </div>
  
 <div><br>
    <a href = "mailto:luizbottino@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">    </a>
