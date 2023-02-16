@@ -3,7 +3,7 @@
 - 🌱 Estudando desenvolvimento Java
 
 <div><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizbottino&count_private=true&theme=transparent)](https://github.com/luizbottino/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizbottino&count_private=true&theme=transparent)](https://github.com/luizbottino/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizbottino&count_private=true&theme=transparent&layout=compact)](https://github.com/luizbottino/github-readme-stats)  
  </div>
