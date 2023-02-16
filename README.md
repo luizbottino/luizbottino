@@ -4,14 +4,14 @@
 
 <div align="center">
   <a href="https://github.com/luizbottino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizbottino&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbottino&hide_progress=true&langs_count=7&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luizbottino&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbottino&hide_progress=true&langs_count=7&theme=transparent"/>
 </div>
 
 ##
   
 <div><br>
-   <a href = "mailto:luizbottino@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">    </a>
+  <a href = "mailto:luizbottino@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luizbottino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
