@@ -4,9 +4,9 @@
 
 <div align="left">
   <a href="https://github.com/luizbottino">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luizbottino&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luizbottino&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luizbottino&hide_progress=true&langs_count=7&theme=transparent"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luizbottino&hide_progress=true&langs_count=7&theme=github_dark"/>
 </div>
 
 ##
