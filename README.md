@@ -1,6 +1,6 @@
 ## Luiz por aqui! 👋
 
-- 🌱 Estudando desenvolvimento Java e .NET
+- Desenvolvedor .NET
 
 <div align="left">
   <a href="https://github.com/luizbottino">
